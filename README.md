@@ -29,6 +29,7 @@ Steps follwed in various Case Study
 i.Loading Data with the help of Pandas
 
 ii.preproecessing data
+
    a. checking null value and imputing
    b. checking duplicates
    c. Handling Categorical columns which have so many cateogory in it
@@ -41,6 +42,7 @@ iv.Scaling Data whereever required
 v.Model building
 
 vi.Model evaluation by various parameter
+
   a. For regression :-RMSE
   b.For CLassification :- Accuracy score or AUC-ROC SCOre(for imbalance data)
 
