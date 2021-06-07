@@ -12,14 +12,17 @@ Tableau
 
 Library
 Numpy for mathematical calculation and opeation.
->> https://numpy.org/
+https://numpy.org/
+
 Pandas for loading data,manipulationg Dataframe, Preprocessing data with help of various method
->> https://pandas.pydata.org/
+https://pandas.pydata.org/
+
 Matplotlib and Seaborn for various plot i.e barchart,scatterplot,boxplot
->>https://matplotlib.org/
->>https://seaborn.pydata.org/
->> sklearn for various algorithms
->>https://scikit-learn.org/
+https://matplotlib.org/
+https://seaborn.pydata.org/
+
+sklearn for various algorithms
+https://scikit-learn.org/
 
 Steps follwed in various Case Study
 
