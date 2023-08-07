@@ -51,4 +51,4 @@ Note:- In notebook we kept only final model architecture  <br>
 For more detail u can check write.pdf, you will find all sort experiment done by us. <br>
 
 this project is done by 
-Arvind kumar patel and Subhasis Pattanayak
+Pushpendra Singh Pal
